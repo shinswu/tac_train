@@ -1,0 +1,5 @@
+1. if the A%B == 0 B is a factor of A.
+2. When looking for a factor of a Number A,
+   it is not necessary to look from 1 - A-1.
+3. Use unsigned long long as your base type.
+   

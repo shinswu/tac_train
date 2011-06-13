@@ -1,0 +1,2 @@
+1. Big Hint, in fact you only have to look
+   for factors in the range 2 - sqrt(A).

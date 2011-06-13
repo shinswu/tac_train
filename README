@@ -1,0 +1,18 @@
+Read this First.
+  Howdy, Here are some exercises that give an intro to
+some tasks you might see. Each example is listed under its
+own number. Number0 is the first (though I have not checked it in)
+Number0 consists of an introduction to GIT. Number0 consists of:
+  1. check out a read-only version of this repo by doing:
+     git clone git://github.com/derwood/tac_train.git
+  2. Create your own account on github. Follow the instructions.
+  3. remove the .git directory in the tac_train tree you pulled.
+  4. Create your own tac_train repo on your github account.
+  5. commit and push (some git keywords) the tac_train tree you
+     pulled from Derwood's account to your account/repo.
+  6. Then edit this README by placing a good joke (or a bad one)
+     at the bottom and commit and push it into your repo.
+  7. Next step, look at number1 in your git repo.
+
+Thanks,
+Derwood
